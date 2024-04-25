@@ -4,17 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39c4b80d-248b-4df8-974d-d160c1c86043" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="39c4b80d-248b-4df8-974d-d160c1c86043" name="Changes" comment="commit teste">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Personagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Personagem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "wisnieskii"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/wisnieskii/trdtr-jogo-ffaculdade.git",
+    "accountId": "ec13d378-950c-479a-9935-397adc7d1ea9"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
@@ -41,7 +60,20 @@
       <option name="presentableId" value="Default" />
       <updated>1714003147858</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit teste">
+      <option name="closed" value="true" />
+      <created>1714003341265</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714003341265</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit teste" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit teste" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
